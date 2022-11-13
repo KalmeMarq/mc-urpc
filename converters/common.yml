@@ -1,0 +1,4 @@
+converters:
+  - converter: remove_empty_dir
+    condition:
+      cleanup: true
